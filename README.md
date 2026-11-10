@@ -6,7 +6,8 @@
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)]([https://behance.net/5](https://www.behance.net/rehamabdelal1)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/reham-abd-el-aleem-2a0572248) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Reham-Abdelaleem) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rehamabdelalem08@gmail.com) 
 
 # 💻 Tech Stack:
-<b><i>Languages</i></b><br/>
+### 🌐 LANGUAGES
+<!-- <b><i>Languages</i></b><br/> -->
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 
 <b><i>Hosting / SaaS</i></b><br/>
