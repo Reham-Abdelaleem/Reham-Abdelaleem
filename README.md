@@ -6,7 +6,7 @@
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)]([https://behance.net/5](https://www.behance.net/rehamabdelal1)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/reham-abd-el-aleem-2a0572248) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Reham-Abdelaleem) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rehamabdelalem08@gmail.com) 
 
 # 💻 Tech Stack:
-<sub><i>Languages</i></sub>
+<b><i>Languages</i></b>
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 
 <sub><i>Hosting / SaaS</i></sub>
@@ -18,6 +18,9 @@
 <sub><i>Backend — Currently Learning</i></sub>
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+
+<!--<sub><i>DATABASES / ORM</i></sub>
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)-->
 
 <sub><i>Design</i></sub>
 ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=flat&logo=affinity-designer&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
@@ -33,63 +36,60 @@
 ![](https://streak-stats.demolab.com/?user=Reham-Abdelaleem&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Reham-Abdelaleem&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 👀 Profile Visitors
+<!--## 👀 Profile Visitors
 
-![](https://komarev.com/ghpvc/?username=Reham-Abdelaleem&style=flat-square&color=blueviolet)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Reham-Abdelaleem&theme=default&no-frame=false&no-bg=false&margin-w=4)
+![](https://komarev.com/ghpvc/?username=Reham-Abdelaleem&style=flat-square&color=blueviolet)-->
 
 ---
 
-## 📊 GitHub Stats
+<!--## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Reham-Abdelaleem&theme=default&no-frame=false&no-bg=false&margin-w=4)-->
+
+---
+
+<!--## 📊 GitHub Stats-->
 
 <!-- Dark Mode -->
-<img src="https://github-readme-stats.vercel.app/api?username=Reham-Abdelaleem&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="165" alt="GitHub Stats" />
+<!--<img src="https://github-readme-stats.vercel.app/api?username=Reham-Abdelaleem&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="165" alt="GitHub Stats" />-->
 
 <!-- Light Mode -->
-<img src="https://github-readme-stats.vercel.app/api?username=Reham-Abdelaleem&show_icons=true&theme=default&hide_border=true&include_all_commits=true" height="165" alt="GitHub Stats" />
+<!--<img src="https://github-readme-stats.vercel.app/api?username=Reham-Abdelaleem&show_icons=true&theme=default&hide_border=true&include_all_commits=true" height="165" alt="GitHub Stats" />-->
+
 
 ---
-## 🔥 GitHub Streak
+<!--## 🔥 GitHub Streak-->
 <!-- Dark Mode -->
 
-<img src="https://streak-stats.demolab.com/?user=Reham-Abdelaleem&theme=radical&hide_border=true" alt="GitHub Streak" />
+<!--<img src="https://streak-stats.demolab.com/?user=Reham-Abdelaleem&theme=radical&hide_border=true" alt="GitHub Streak" />-->
 
 <!-- Light Mode -->
 
-<img src="https://streak-stats.demolab.com/?user=Reham-Abdelaleem&theme=default&hide_border=true" alt="GitHub Streak" />
+<!--<img src="https://streak-stats.demolab.com/?user=Reham-Abdelaleem&theme=default&hide_border=true" alt="GitHub Streak" />-->
 ---
-## 💻 Most Used Languages
+<!--## 💻 Most Used Languages-->
 
 <!-- Dark Mode -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reham-Abdelaleem&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reham-Abdelaleem&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />-->
 
 <!-- Light Mode -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reham-Abdelaleem&layout=compact&theme=default&hide_border=true" alt="Most Used Languages" />
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reham-Abdelaleem&layout=compact&theme=default&hide_border=true" alt="Most Used Languages" />-->
 
 ---
 
-### ✍️ Random Dev Quote
+<!--### ✍️ Random Dev Quote-->
 
 <!-- Dark Mode -->
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark#gh-dark-mode-only)
+<!--![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark#gh-dark-mode-only)-->
 
 <!-- Light Mode -->
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light#gh-light-mode-only)
+<!--![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light#gh-light-mode-only)-->
 
 ---
 
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=Reham-Abdelaleem&limit=5&theme=default&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-🚀 Featured Projects
 
 SurveyLand — Responsive Survey Management Web Application.
 
@@ -100,3 +100,5 @@ My Portfolio — Personal portfolio showcasing my projects and skills.
 <p align="center">
   <i>Thanks for visiting my profile! 😊</i>
 </p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
